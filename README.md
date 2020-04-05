@@ -8,5 +8,5 @@ Want to do accept deliveries online? This is the `delivery-manager`, which allow
 
 ## This also adds additional features to my [donut-delivery](https://github.com/bpmct/donut-delivery) frontend app:
 - [ ] Manage site config (no need to mess with JSON files)
-- [ ] Send SMS notifications to users notifying them about order status
-- [ ] Allow non-authenticated users to see the status of orders from different computers/sessions 
+- [ ] Send SMS notifications to users with their order status
+- [ ] Allow non-authenticated users to see the status of orders made from different computers/sessions 
