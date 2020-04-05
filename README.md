@@ -2,7 +2,7 @@
 Want to do accept deliveries online? This is the `delivery-manager`, which allows store owners/employees to see the status of their orders, update statuses, and cancel/refund orders. All powered by [BuiltOn.Dev](https://builton.dev).
 
 ## Allows admins/store managers to:
-- [ ] Get SMS notifications when there is a new orders
+- [ ] Get SMS notifications when there are new orders/cancellations
 - [ ] View orders & update order status
 - [ ] Cancel and refund orders
 
