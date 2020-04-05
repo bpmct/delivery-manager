@@ -1,5 +1,5 @@
 # delivery-manager
-Want to do accept deliveries on online? This is the **delivery-manager**, allows store owners/employees to see the status of their orders, update statuses, and cancel/refund orders. All powered by [BuiltOn.Dev](https://builton.dev).
+Want to do accept deliveries online? This is the `delivery-manager`, allows store owners/employees to see the status of their orders, update statuses, and cancel/refund orders. All powered by [BuiltOn.Dev](https://builton.dev).
 
 ## Allows admins/store managers to:
 - [ ] Get SMS notifications when there is a new orders
